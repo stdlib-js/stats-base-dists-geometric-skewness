@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-14)
+
+<section class="features">
+
+### Features
+
+-   [`88134a7`](https://github.com/stdlib-js/stdlib/commit/88134a7c68ac563d731521c5e5a5578ef46fa6b2) - add C implementation for `stats/base/dists/geometric/skewness` [(#4093)](https://github.com/stdlib-js/stdlib/pull/4093)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3641](https://github.com/stdlib-js/stdlib/issues/3641)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`88134a7`](https://github.com/stdlib-js/stdlib/commit/88134a7c68ac563d731521c5e5a5578ef46fa6b2) - **feat:** add C implementation for `stats/base/dists/geometric/skewness` [(#4093)](https://github.com/stdlib-js/stdlib/pull/4093) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
